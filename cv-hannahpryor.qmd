@@ -6,6 +6,8 @@ editor: visual
 
 <br>
 
+> ![](images/california_pic.jpeg){width="160"}
+>
 > | Ithaca, NY, USA  
 > | hgp26\@cornell.edu  
 > | (419) 610-8837  
