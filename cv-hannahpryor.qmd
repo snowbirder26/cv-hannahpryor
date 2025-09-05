@@ -23,18 +23,58 @@ Cornell University, Ithaca, New York — B.S., Environment and Sustainability, M
 
 #### RESEARCH EXPERIENCE
 
-YELLOW-RUMPED WARBLER SONG PLAYBACK RESEARCH — *February 2023-present*
+-   YELLOW-RUMPED WARBLER SONG PLAYBACK RESEARCH — *February 2023-present*
 
-*Independent undergraduate research project supervised by Dr. Irby Lovette looking at song recognition and speciation in the eastern and western subspecies of the Yellow-rumped Warbler*
+    *Independent undergraduate research project supervised by Dr. Irby Lovette looking at song recognition and speciation in the eastern and western subspecies of the Yellow-rumped Warbler*
 
--   Independent field work in California, Northeast U.S., Washington, and Alberta conducting song playback trials
+    -   Independent field work in California, Northeast U.S., Washington, and Alberta conducting song playback trials
 
--   Tent camping in a variety of conditions and strenuous hiking at high elevations 
+    -   Tent camping in a variety of conditions and strenuous hiking at high elevations 
 
--   Targeted sound recording for Macaulay Library
+    -   Targeted sound recording for Macaulay Library
 
--   R programming
+    -   R programming
 
-    <br>
+<br>
 
-FAIRYWREN BANDING ASSISTANT — Lake Samsonvale, Queensland, Australia — *July-August, 2024*
+-   FAIRYWREN BANDING ASSISTANT — Lake Samsonvale, Queensland, Australia — *July-August 2024*
+
+    *The Fairywren Project — long term study of various aspects of fairywren biology across Australia*
+
+    -   Setting up, taking down, and storing mist nets
+
+    -   Banding and processing a variety of different local bird species
+
+    -   Color banding (plastic bands, solder closed) of three fairywren species
+
+    -   Digital and physical recording of banding data in the field
+
+<br>
+
+-   FAIRYWREN LAB ASSISTANT — Cornell Lab of Ornithology — *March-May 2024*
+
+    *Research looking at telomere length in Variegated Fairywrens from northern Australia*
+
+    -   DNA extraction from blood samples in lysis buffer
+
+    -   Qubit and Quikdrop to measure DNA concentrations
+
+    -   LabArchives and Excel
+
+    -   Ongoing genomic analysis with possible F1 and F2 hybrid Red-Backed x Superb Fairywren DNA
+
+<br>
+
+-   HUBBARD BROOK FIELD ORNITHOLOGY PROGRAM: BLACK-THROATED BLUE WARBLER CREW — Hubbard Brook Experimental Forest, NH — *Summer 2023*
+
+    *Long-term research on Black-throated Blue Warblers and how they respond to environmental changes*
+
+    -   Nest searching and monitoring
+
+    -   Territory mapping
+
+    -   Nestling banding, brachial bleeding, and processing
+
+    -   Predator counts and food abundance surveys
+
+<br>
