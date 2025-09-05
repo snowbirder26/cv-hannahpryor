@@ -5,4 +5,36 @@ format: html
 editor: visual
 ---
 
-## 
+<br>
+
+#### CAREER OBJECTIVES
+
+*Research and education in ornithology and evolutionary biology*
+
+My primary areas of interest are hybridization, speciation, and bioacoustics. I am particularly curious about the role of song and song learning in passerine hybrid zones, and how this can facilitate or inhibit the speciation process.
+
+<br>
+
+#### EDUCATION
+
+Cornell University, Ithaca, New York — B.S., Environment and Sustainability, May 2026
+
+<br>
+
+#### RESEARCH EXPERIENCE
+
+YELLOW-RUMPED WARBLER SONG PLAYBACK RESEARCH — *February 2023-present*
+
+*Independent undergraduate research project supervised by Dr. Irby Lovette looking at song recognition and speciation in the eastern and western subspecies of the Yellow-rumped Warbler*
+
+-   Independent field work in California, Northeast U.S., Washington, and Alberta conducting song playback trials
+
+-   Tent camping in a variety of conditions and strenuous hiking at high elevations 
+
+-   Targeted sound recording for Macaulay Library
+
+-   R programming
+
+    <br>
+
+FAIRYWREN BANDING ASSISTANT — Lake Samsonvale, Queensland, Australia — *July-August, 2024*
