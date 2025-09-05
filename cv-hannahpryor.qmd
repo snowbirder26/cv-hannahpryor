@@ -7,6 +7,8 @@ editor: visual
 
 # Hannah G. Pryor – Curriculum Vitae (CV)
 
+------------------------------------------------------------------------
+
 *Updated August 2025*
 
 <br>
@@ -22,6 +24,8 @@ editor: visual
 
 #### CAREER OBJECTIVES
 
+------------------------------------------------------------------------
+
 *Research and education in ornithology and evolutionary biology*
 
 My primary areas of interest are hybridization, speciation, and bioacoustics. I am particularly curious about the role of song and song learning in passerine hybrid zones, and how this can facilitate or inhibit the speciation process.
@@ -30,13 +34,15 @@ My primary areas of interest are hybridization, speciation, and bioacoustics. I 
 
 #### EDUCATION
 
+------------------------------------------------------------------------
+
 Cornell University, Ithaca, New York — B.S., Environment and Sustainability, May 2026
 
 <br>
 
 #### RESEARCH EXPERIENCE
 
-<br>
+------------------------------------------------------------------------
 
 -   YELLOW-RUMPED WARBLER SONG PLAYBACK RESEARCH — *February 2023-present*
 
@@ -110,7 +116,7 @@ Cornell University, Ithaca, New York — B.S., Environment and Sustainability, M
 
 #### RELEVANT COURSEWORK
 
-<br>
+------------------------------------------------------------------------
 
 OTS TROPICAL BIOLOGY ON A CHANGING PLANET — STUDY ABROAD IN COSTA RICA — *Spring 2025*
 
@@ -126,7 +132,7 @@ BIOEE 2150 — TECHNIQUES IN AVIAN SPECIMEN PREPARATION — *Fall 2022*
 
 #### PRESENTATIONS
 
-<br>
+------------------------------------------------------------------------
 
 **Pryor, H.**, S.A. Kaiser, and I. Lovette. Reciprocal song playback and subspecies recognition in the yellow-rumped warbler complex. American Ornithological Society Annual Meeting, Estes Park, CO, October 2024 \[Poster\]
 
@@ -136,7 +142,7 @@ BIOEE 2150 — TECHNIQUES IN AVIAN SPECIMEN PREPARATION — *Fall 2022*
 
 #### AWARDS AND GRANTS
 
-<br>
+------------------------------------------------------------------------
 
 -   RESEARCH GRANTS — \$6792
 
@@ -162,7 +168,7 @@ BIOEE 2150 — TECHNIQUES IN AVIAN SPECIMEN PREPARATION — *Fall 2022*
 
 #### WORK EXPERIENCE
 
-<br>
+------------------------------------------------------------------------
 
 -   PE INSTRUCTOR - Cornell Outdoor Education — *April 2023-present*
 
@@ -186,7 +192,7 @@ BIOEE 2150 — TECHNIQUES IN AVIAN SPECIMEN PREPARATION — *Fall 2022*
 
 #### LEADERSHIP EXPERIENCE
 
-<br>
+------------------------------------------------------------------------
 
 BIRDING CLUB AT CORNELL EXECUTIVE BOARD: TRIP CHAIR — 2024
 
@@ -196,7 +202,7 @@ CORNELL BIOACOUSTICS CLUB EXECUTIVE BOARD: OUTREACH CHAIR — 2025
 
 #### PROFESSIONAL SKILLS AND EXPERIENCE
 
-<br>
+------------------------------------------------------------------------
 
 GENERAL SKILLS
 
