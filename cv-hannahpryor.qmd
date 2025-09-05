@@ -1,9 +1,15 @@
 ---
-title: "Curriculum vitae (CV)"
-author: "Hannah Pryor"
+title: "Hannah Pryor"
 format: html
 editor: visual
 ---
+
+<br>
+
+> | Ithaca, NY, USA  
+> | hgp26\@cornell.edu  
+> | (419) 610-8837  
+> | [LinkedIn](https://www.linkedin.com/in/hannah-pryor-792004337/)
 
 <br>
 
@@ -22,6 +28,8 @@ Cornell University, Ithaca, New York — B.S., Environment and Sustainability, M
 <br>
 
 #### RESEARCH EXPERIENCE
+
+<br>
 
 -   YELLOW-RUMPED WARBLER SONG PLAYBACK RESEARCH — *February 2023-present*
 
@@ -76,5 +84,157 @@ Cornell University, Ithaca, New York — B.S., Environment and Sustainability, M
     -   Nestling banding, brachial bleeding, and processing
 
     -   Predator counts and food abundance surveys
+
+<br>
+
+-   FLORIDA SCRUB-JAY LAB ASSISTANT — Cornell Lab of Ornithology — *September 2022-May 2023*
+
+    *Long-term research on ecology of Florida Scrub-Jays in Florida’s unique oak scrub habitat*
+
+    -   DNA extraction blood samples in lysis buffer
+
+    -   PCR and gel electrophoresis for molecular sexing
+
+    -   LabArchives and Excel
+
+    -   Traveled to Archbold Biological Station for spring break to help with field work for the project
+
+<br>
+
+#### RELEVANT COURSEWORK
+
+<br>
+
+OTS TROPICAL BIOLOGY ON A CHANGING PLANET — STUDY ABROAD IN COSTA RICA — *Spring 2025*
+
+NTRES 3150/3151 — CONSERVATION BIOACOUSTICS — FIELD COURSE IN HAWAII — *Fall 2024-Winter 2025*
+
+BIOEE 2525/2526/2527 — ECOLOGY AND CONSERVATION OF WILDLIFE IN THE NEOTROPICS — FIELD COURSE IN PATAGONIA, ARGENTINA — *Fall 2023-Spring 2024*
+
+BIOEE 4940 — ADVANCED ORNITHOLOGICAL ILLUSTRATION — *Fall 2023*
+
+BIOEE 2150 — TECHNIQUES IN AVIAN SPECIMEN PREPARATION — *Fall 2022*
+
+<br>
+
+#### PRESENTATIONS
+
+<br>
+
+**Pryor, H.**, S.A. Kaiser, and I. Lovette. Reciprocal song playback and subspecies recognition in the yellow-rumped warbler complex. American Ornithological Society Annual Meeting, Estes Park, CO, October 2024 \[Poster\]
+
+**Pryor, H.**, I. Lovette, and S.A. Kaiser. Geographic song variation and subspecies recognition in the yellow-rumped warbler complex. Hubbard Brook Ecosystem Study 60th Annual Cooperators’ Meeting, Plymouth, NH, July 2023 \[Lightning Talk\]
+
+<br>
+
+#### AWARDS AND GRANTS
+
+<br>
+
+-   RESEARCH GRANTS — \$6792
+
+    -   *Association of Field Ornithologists - Bergstrom Grant*, Spring 2025 — \$1000
+
+    -   *Undergraduate Research Fund at the Cornell Lab of Ornithology*, Spring 2025 — \$2000
+
+    -   *Cornell University College of Agriculture and Life Sciences Alumni Association Grant*, Spring 2025— \$1000
+
+    -   *Undergraduate Research Fund at the Cornell Lab of Ornithology*, Spring 2024 — \$792
+
+    -   *Cornell University College of Agriculture and Life Sciences Undergraduate Research Grant*, Fall 2023 — \$2000
+
+<br>
+
+-   OTHER AWARDS AND FUNDING
+
+    -   *Cornell University College of Agriculture and Life Sciences Alumni Association Grant* \[travel grant\], Fall 2023 — \$250 
+
+    -   *Knight Prize for Writing in the Majors* \[honorable mention\], April 2023 — \$100 award
+
+<br>
+
+#### WORK EXPERIENCE
+
+<br>
+
+-   PE INSTRUCTOR - Cornell Outdoor Education — *April 2023-present*
+
+    -   Organizing and co-instructing backpacking, rock climbing, canoeing, and stand-up paddleboarding courses
+
+<br>
+
+-   SNOW SPORTS INSTRUCTOR - Snow Trails Ski Resort, Mansfield, Ohio — *November 2019-present*
+
+    -   Teaching group and private downhill ski lessons across a variety of ages and ability levels
+
+<br>
+
+-   ENVIRONMENTAL EDUCATION INTERN - Gorman Nature Center, Lexington, Ohio — *Summer 2022*
+
+    -   Organization and execution of environmental outreach events, including bird walks and a summer day camp for kids
+
+    -   Land management tasks, including trail maintenance, nest box monitoring, and invasive species removal
+
+<br>
+
+#### LEADERSHIP EXPERIENCE
+
+<br>
+
+BIRDING CLUB AT CORNELL EXECUTIVE BOARD: TRIP CHAIR — 2024
+
+CORNELL BIOACOUSTICS CLUB EXECUTIVE BOARD: OUTREACH CHAIR — 2025
+
+<br>
+
+#### PROFESSIONAL SKILLS AND EXPERIENCE
+
+<br>
+
+GENERAL SKILLS
+
+-   Advanced knowledge of avian anatomy, ecology, and evolution from challenging coursework and educational experiences
+
+-   Spanish language \[conversational\]
+
+<br>
+
+FIELD SKILLS
+
+-   Bird identification by sight and sound
+
+-   Long-term monitoring: nest searching, territory mapping, predator and insect/arachnid abundance surveys
+
+-   Banding: aluminum and color bands, adult and nestling birds, processing and scribing, nestling brachial bleeding
+
+-   Targeted sound recording, passive acoustic monitoring, playback experiments
+
+-   Intense hiking and camping for field work in a variety of conditions and locations
+
+<br>
+
+LAB SKILLS
+
+-   DNA extraction, PCR, and gel electrophoresis
+
+-   Qubit and Quikdrop
+
+<br>
+
+SOFTWARE SKILLS
+
+-   R programming:
+
+    -   Data visualization
+
+    -   T-test, chi-squared test of association, ANOVA/Kruskal-Wallis tests
+
+    -   Principal Component Analysis
+
+    -   Linear modeling
+
+-   Bioacoustics software: Raven Pro, Raven Compass, Raven Expedition, BirdNET
+
+-   QGIS software
 
 <br>
